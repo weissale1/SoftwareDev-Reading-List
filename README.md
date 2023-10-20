@@ -1,8 +1,18 @@
 # Software Development Reading List
 
-This reading list contains links to texts about software development.\
-Texts are roughly organized by topic and annotated with a tag, indicating the kind of text.
+This reading list contains links to texts about software development.
 
+Texts are roughly organized by topic and annotated with a tag, indicating the kind of text. Two to three sentence summaries give a general idea about the contents of the text. Summaries are omitted if the texts title is clear enough. 
+
+
+### Topics
+- Complexity
+- Software Architecture
+- Requirements
+- Development process
+- Legacy systems
+- Technical debt
+- Artificial intelligence
 
 ### Tags
 **[P]** Scientific Paper\
@@ -10,7 +20,8 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 **[AS]** Article-Series\
 **[BA]** Blog Article\
 **[E]** Essay\
-**[B]** Book
+**[B]** Book\
+**[G]** Guide
 
 **[Classic]** A text with siginificant influence.
 
@@ -36,8 +47,6 @@ http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
 
 # Software Architecture
 
-
-
 **[B] Fundamentals of Software Architecture: An Engineering Approach.**\
 Introduction and overview of software architecture’s many aspects. Topics include architectural characteristics and patterns, component determination and a overview of common architectures.
  https://www.oreilly.com/library/view/fundamentals-of-software/9781663728357/
@@ -58,9 +67,31 @@ https://www.infoq.com/articles/effective-architecture-conversations
 
 # Requirements
 
-# Development process
+**[G] A practical guide to writing technical specs**\
+What a technical spec is. Why and how to write one.\
+https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs
 
-# Technical Debt
+**[A] Requirements volatility is the core problem of software engineering**\
+https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering
+
+**[A] The hardest part of building software is not coding, it's requirements**\
+Unclear requirements as a challenge and as the reason why code generating AI will not be able to replace software engineers.\
+https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements
+
+# Development process
+No articles yet.
+
+# Networks
+**[B] Where wizards stay up late: The Origins Of The Internet**\
+https://books.google.de/books/about/Where_Wizards_Stay_Up_Late.html
+
+# Legacy systems
+
+**[AS] Patterns of Legacy Displacement**\
+Challenges and best practices of replacing legacy systems.\
+https://martinfowler.com/articles/patterns-legacy-displacement
+
+# Technical debt
 **[A] What Does Technical Debt Tell You?**\
 Introduction to the technical debt metaphor. Difficulties in quantifying techical debt. Shortcomings of the metaphor.\
 https://www.infoq.com/articles/technical-debt-tells-you
