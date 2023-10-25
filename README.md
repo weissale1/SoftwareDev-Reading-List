@@ -10,6 +10,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 - Software Architecture
 - Requirements
 - Development process
+- Networks
 - Legacy systems
 - Technical debt
 - Artificial intelligence
@@ -23,7 +24,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 **[B]** Book\
 **[G]** Guide
 
-**[Classic]** A text with siginificant influence.
+**[Classic]** A text with siginificant influence on the field.
 
 ### How to participate
 Raise an Issue on GitHub to comment on this list.\
@@ -79,10 +80,22 @@ Unclear requirements as a challenge and as the reason why code generating AI wil
 https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements
 
 # Development process
-No articles yet.
+
+**[A] Does scrum ruin great engineers or are you doing it wrong?**\
+Summary of a discussion about scrum on the softwareengineering stackexchange. List of common problems in implementing scrum.\
+https://stackoverflow.blog/2020/06/29/does-scrum-ruin-great-engineers-or-are-you-doing-it-wrong
+
+**[A] Can developer productivity be measured?**\
+Discussion of several, often used measures of dev productivity and their potential problems.\
+https://stackoverflow.blog/2020/12/07/measuring-developer-productivity
+
+**[BA] CannotMeasureProductivity**\
+Arguments that measuring developer productivity is futile.\
+https://martinfowler.com/bliki/CannotMeasureProductivity.html
 
 # Networks
 **[B] Where wizards stay up late: The Origins Of The Internet**\
+Focus on the people involved. Good story, but little to no technical details.
 https://books.google.de/books/about/Where_Wizards_Stay_Up_Late.html
 
 # Legacy systems
@@ -113,3 +126,12 @@ Possibilities and limits of increasing coding productivity with the use of AI to
 https://stackoverflow.blog/2023/10/16/is-ai-enough-to-increase-your-productivity/
 
 ## LLMs - Large Language Models
+To be added.
+
+# Trivia
+
+## Bugs
+
+**[BA] The most copied StackOverflow snippet of all time is flawed!**\
+Nice bug in printing a byte count in a human readable format.\
+https://programming.guide/worlds-most-copied-so-snippet.html
