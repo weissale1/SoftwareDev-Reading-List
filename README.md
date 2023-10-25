@@ -6,14 +6,15 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 
 
 ### Topics
-- Complexity
-- Software Architecture
-- Requirements
-- Development process
-- Networks
-- Legacy systems
-- Technical debt
-- Artificial intelligence
+- [Complexity](#complexity)
+- [Software Architecture](#software-architecture)
+- [Requirements](#requirements)
+- [Development process](#development-process)
+- [Networks](#networks)
+- [Legacy systems](#legacy-systems)
+- [Technical debt](#technical-debt)
+- [Artificial intelligence](#artificial-intelligence)
+- [Trivia](#trivia)
 
 ### Tags
 **[P]** Scientific Paper\
