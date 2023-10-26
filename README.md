@@ -4,7 +4,6 @@ This reading list contains links to texts about software development.
 
 Texts are roughly organized by topic and annotated with a tag, indicating the kind of text. A two to three sentence summary gives a general idea about each texts content. Summaries are omitted if the texts title is clear enough. 
 
-
 ### Topics
 - [Complexity](#complexity)
 - [Software Architecture](#software-architecture)
