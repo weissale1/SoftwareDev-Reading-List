@@ -2,18 +2,20 @@
 
 This reading list contains links to texts about software development.
 
-Texts are roughly organized by topic and annotated with a tag, indicating the kind of text. Two to three sentence summaries give a general idea about the contents of the text. Summaries are omitted if the texts title is clear enough. 
+Texts are roughly organized by topic and annotated with a tag, indicating the kind of text. A two to three sentence summary gives a general idea about each texts content. Summaries are omitted if the texts title is clear enough. 
 
 
 ### Topics
 - [Complexity](#complexity)
 - [Software Architecture](#software-architecture)
+    - [Technical debt](#technical-debt)
+    - [Communicating Architecture to business](#communicating-architecture-to-business)
 - [Requirements](#requirements)
 - [Development process](#development-process)
 - [Networks](#networks)
 - [Legacy systems](#legacy-systems)
-- [Technical debt](#technical-debt)
 - [Artificial intelligence](#artificial-intelligence)
+    - [Code generation - Coding with AI](#code-generation--coding-with-ai)
 - [Trivia](#trivia)
 
 ### Tags
@@ -61,6 +63,19 @@ https://www.infoq.com/articles/continous-architecture-article-series/
 Discussing the role of software architecture in agile development. Focus on the timing of architectural desicions.
 https://www.infoq.com/articles/agility-architecture
 
+## Technical debt
+**[A] What Does Technical Debt Tell You?**\
+Introduction to the technical debt metaphor. Difficulties in quantifying techical debt. Shortcomings of the metaphor.\
+https://www.infoq.com/articles/technical-debt-tells-you
+
+**[A] Technical Debt is Quantifiable as Financial Debt: an Impossible Thing for Developers**\
+Difficulties in converting measures of technical debt to financial debt, as in financial effort needed to fix the technical debt.\
+https://www.infoq.com/news/2022/09/financial-debt-impossible/
+
+**[A] Using the Technical Debt Metaphor to Communicate Code Quality**
+Exploring the metaphor. Emphasising unmanaged technical debt as the main problem.\
+https://www.infoq.com/news/2022/10/technical-debt-code-quality/
+
 ## Communicating architecture to business
 
 **[A] How to Have More Effective Conversations with Business Stakeholders About Software Architecture**\
@@ -104,19 +119,6 @@ https://books.google.de/books/about/Where_Wizards_Stay_Up_Late.html
 **[AS] Patterns of Legacy Displacement**\
 Challenges and best practices of replacing legacy systems.\
 https://martinfowler.com/articles/patterns-legacy-displacement
-
-# Technical debt
-**[A] What Does Technical Debt Tell You?**\
-Introduction to the technical debt metaphor. Difficulties in quantifying techical debt. Shortcomings of the metaphor.\
-https://www.infoq.com/articles/technical-debt-tells-you
-
-**[A] Technical Debt is Quantifiable as Financial Debt: an Impossible Thing for Developers**\
-Difficulties in converting measures of technical debt to financial debt, as in financial effort needed to fix the technical debt.\
-https://www.infoq.com/news/2022/09/financial-debt-impossible/
-
-**[A] Using the Technical Debt Metaphor to Communicate Code Quality**
-Exploring the metaphor. Emphasising unmanaged technical debt as the main problem.\
-https://www.infoq.com/news/2022/10/technical-debt-code-quality/
 
 # Artificial Intelligence
 
