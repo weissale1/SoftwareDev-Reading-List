@@ -7,6 +7,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 ### Topics
 - [Complexity](#complexity)
 - [Software Architecture](#software-architecture)
+    - [Fundamentals](#fundamentals)
     - [Technical debt](#technical-debt)
     - [Communicating Architecture to business](#communicating-architecture-to-business)
 - [Requirements](#requirements)
@@ -38,20 +39,30 @@ Text suggestions are welcome, as are error reports.
 
 # Complexity
 
-**[P][Classic] Out of the Tar Pit**\
+**[P][Classic] Out of the Tar Pit (2006)**\
 Complexity as the single major souce of difficulty in the development of large software systems. Causes of complexity and how to avoid accidential complexity.\
 https://curtclifton.net/papers/MoseleyMarks06a.pdf
 
 
-**[P][Classic] No Silver Bullet**\
+**[P][Classic] No Silver Bullet (1986)**\
 Distinguishing between accidential and essential complexity. Identification of essential complexity as inherent to most software problems. Arguing for limited possibilities to improve on tackling this essential complexity.\
 http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
 
 
 # Software Architecture
 
+## Fundamentals
+
+**[P][Classic] On the criteria to be used in decomposing systems into modules (1972)**\
+Proposing to decompose systems by identifying (possibly changing) design desicions and grouping modules so that changes effect only one module. Arguing for 'information hiding' and well defined interfaces. Aiming for improved changability, independence of modules and comprehensibility.\
+https://dl.acm.org/doi/10.1145/361598.361623
+
+**[B] Clean Architecture: A Craftsman's Guide to Software Structure and Design**\
+Describes general principles of software architecture on a fairly abstract level.\
+(no link)
+
 **[B] Fundamentals of Software Architecture: An Engineering Approach.**\
-Introduction and overview of software architecture’s many aspects. Topics include architectural characteristics and patterns, component determination and a overview of common architectures.
+Introduction and overview of software architecture’s many aspects. Topics include architectural characteristics and patterns, component determination and a overview of common architectures.\
  https://www.oreilly.com/library/view/fundamentals-of-software/9781663728357/
 
 **[AS] Continuous Architecture**\
@@ -59,7 +70,7 @@ Series of articles exploring software architecture as desicions on how systems s
 https://www.infoq.com/articles/continous-architecture-article-series/
 
 **[A] Agility and Architecture: Balancing Minimum Viable Product and Minimum Viable Architecture**\
-Discussing the role of software architecture in agile development. Focus on the timing of architectural desicions.
+Discussing the role of software architecture in agile development. Focus on the timing of architectural desicions.\
 https://www.infoq.com/articles/agility-architecture
 
 ## Technical debt
@@ -69,11 +80,11 @@ https://www.infoq.com/articles/technical-debt-tells-you
 
 **[A] Technical Debt is Quantifiable as Financial Debt: an Impossible Thing for Developers**\
 Difficulties in converting measures of technical debt to financial debt, as in financial effort needed to fix the technical debt.\
-https://www.infoq.com/news/2022/09/financial-debt-impossible/
+https://www.infoq.com/news/2022/09/financial-debt-impossible
 
 **[A] Using the Technical Debt Metaphor to Communicate Code Quality**
 Exploring the metaphor. Emphasising unmanaged technical debt as the main problem.\
-https://www.infoq.com/news/2022/10/technical-debt-code-quality/
+https://www.infoq.com/news/2022/10/technical-debt-code-quality
 
 ## Communicating architecture to business
 
@@ -125,7 +136,7 @@ https://martinfowler.com/articles/patterns-legacy-displacement
 
 **[BA] Is AI enough to increase your productivity?**\
 Possibilities and limits of increasing coding productivity with the use of AI tools.\
-https://stackoverflow.blog/2023/10/16/is-ai-enough-to-increase-your-productivity/
+https://stackoverflow.blog/2023/10/16/is-ai-enough-to-increase-your-productivity
 
 ## LLMs - Large Language Models
 To be added.
