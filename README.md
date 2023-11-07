@@ -9,14 +9,16 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 - [Software Architecture](#software-architecture)
     - [Fundamentals](#fundamentals)
     - [Technical debt](#technical-debt)
-    - [Communicating Architecture to business](#communicating-architecture-to-business)
+    - [Communicating architecture to business](#communicating-architecture-to-business)
 - [Requirements](#requirements)
 - [Development process](#development-process)
 - [Networks](#networks)
 - [Legacy systems](#legacy-systems)
 - [Artificial intelligence](#artificial-intelligence)
     - [Code generation - Coding with AI](#code-generation--coding-with-ai)
+    - [Large Language Models](#llms---large-language-models)
 - [Trivia](#trivia)
+    - [Bugs](#bugs)
 
 ### Tags
 **[P]** Scientific Paper\
@@ -33,7 +35,10 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 Raise an Issue on GitHub to comment on this list.\
 Text suggestions are welcome, as are error reports.
 
-<!-- ## New Additions -->
+## New Additions
+**07. November '23**\
+[P] The Accidental Architecture -> Software Architecture\
+[BA] Privacy in the age of generative AI -> Artificial intelligence
 
 ---
 
@@ -59,7 +64,7 @@ https://dl.acm.org/doi/10.1145/361598.361623
 
 **[B] Clean Architecture: A Craftsman's Guide to Software Structure and Design**\
 Describes general principles of software architecture on a fairly abstract level.\
-(no link)
+(no link, easily found by any search engine)
 
 **[B] Fundamentals of Software Architecture: An Engineering Approach.**\
 Introduction and overview of software architecture’s many aspects. Topics include architectural characteristics and patterns, component determination and a overview of common architectures.\
@@ -72,6 +77,10 @@ https://www.infoq.com/articles/continous-architecture-article-series/
 **[A] Agility and Architecture: Balancing Minimum Viable Product and Minimum Viable Architecture**\
 Discussing the role of software architecture in agile development. Focus on the timing of architectural desicions.\
 https://www.infoq.com/articles/agility-architecture
+
+**[P] The Accidental Architecture**\
+Main point: Accidental architectures emerge but then become intentional only after they’ve proven themselves through time.\
+https://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Arc_Accidental.pdf
 
 ## Technical debt
 **[A] What Does Technical Debt Tell You?**\
@@ -139,7 +148,10 @@ Possibilities and limits of increasing coding productivity with the use of AI to
 https://stackoverflow.blog/2023/10/16/is-ai-enough-to-increase-your-productivity
 
 ## LLMs - Large Language Models
-To be added.
+
+**[BA] Privacy in the age of generative AI**\
+Describes data privacy problems in training and usage of LLM's and proposes the use of a data privacy vault as a solution.\
+https://stackoverflow.blog/2023/10/23/privacy-in-the-age-of-generative-ai
 
 # Trivia
 
