@@ -62,6 +62,10 @@ http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
 Proposing to decompose systems by identifying (possibly changing) design desicions and grouping modules so that changes effect only one module. Arguing for 'information hiding' and well defined interfaces. Aiming for improved changability, independence of modules and comprehensibility.\
 https://dl.acm.org/doi/10.1145/361598.361623
 
+**[P][Classic] Information distribution aspects of design methodology (1972)**
+Introducing information hiding and encapsulation, to increase the decoupling of modules.
+https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
+
 **[B] Clean Architecture: A Craftsman's Guide to Software Structure and Design**\
 Describes general principles of software architecture on a fairly abstract level.\
 (no link, easily found by any search engine)
