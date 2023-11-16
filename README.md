@@ -14,7 +14,8 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 - [Development process](#development-process)
 - [Networks](#networks)
 - [Legacy systems](#legacy-systems)
-- [Artificial intelligence](#artificial-intelligence)
+- [Artificial Intelligence](#artificial-intelligence)
+    - [Safety of AI](#safety-of-ai)
     - [Code generation - Coding with AI](#code-generation--coding-with-ai)
     - [Large Language Models](#llms---large-language-models)
 - [Trivia](#trivia)
@@ -36,9 +37,15 @@ Raise an Issue on GitHub to comment on this list.\
 Text suggestions are welcome, as are error reports.
 
 ## New Additions
+**16. November '23**\
+[P] Concrete Problems in AI Safety -> Artificial Intelligence
+
+**14. November '23**\
+[P] Information distribution aspects of design methodology -> Software Architecture
+
 **07. November '23**\
 [P] The Accidental Architecture -> Software Architecture\
-[BA] Privacy in the age of generative AI -> Artificial intelligence
+[BA] Privacy in the age of generative AI -> Artificial Intelligence
 
 ---
 
@@ -144,6 +151,11 @@ Challenges and best practices of replacing legacy systems.\
 https://martinfowler.com/articles/patterns-legacy-displacement
 
 # Artificial Intelligence
+
+## Safety of AI
+**[P] Concrete Problems in AI Safety**\
+Discussion of 5 concrete problems for AI safety, in three categories: Wrong objective function ("avoiding side effects" and "avoiding reward hacking"), objective function  is too expensive to evaluate frequently ("scalable supervision"), and undesirable behavior during the learning process ("safe exploration" and "distributional shift").\
+https://arxiv.org/abs/1606.06565 
 
 ## Code generation / coding with AI
 
