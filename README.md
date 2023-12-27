@@ -8,6 +8,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 - [Complexity](#complexity)
 - [Software Architecture](#software-architecture)
     - [Fundamentals](#fundamentals)
+    - [Software Design](#software-design)
     - [Technical debt](#technical-debt)
     - [Communicating architecture to business](#communicating-architecture-to-business)
 - [Requirements](#requirements)
@@ -35,17 +36,6 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 ### How to participate
 Raise an Issue on GitHub to comment on this list.\
 Text suggestions are welcome, as are error reports.
-
-## New Additions
-**16. November '23**\
-[P] Concrete Problems in AI Safety -> Artificial Intelligence
-
-**14. November '23**\
-[P] Information distribution aspects of design methodology -> Software Architecture
-
-**07. November '23**\
-[P] The Accidental Architecture -> Software Architecture\
-[BA] Privacy in the age of generative AI -> Artificial Intelligence
 
 ---
 
@@ -92,6 +82,14 @@ https://www.infoq.com/articles/agility-architecture
 **[P] The Accidental Architecture**\
 Main point: Accidental architectures emerge but then become intentional only after they’ve proven themselves through time.\
 https://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Arc_Accidental.pdf
+
+## Software Design
+**[B] Clean Code**\
+Proposes and discusses a wide array of coding principles which lead to readable, changeable, maintainable code. Demonstrates these principles in lots of code examples.
+
+**[BA] BeckDesignRules**\
+Short summary of Kent Beck's four rules of good software design.\
+https://martinfowler.com/bliki/BeckDesignRules.html
 
 ## Technical debt
 **[A] What Does Technical Debt Tell You?**\
