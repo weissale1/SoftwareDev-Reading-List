@@ -87,6 +87,11 @@ https://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Arc_Accidenta
 **[B] Clean Code**\
 Proposes and discusses a wide array of coding principles which lead to readable, changeable, maintainable code. Demonstrates these principles in lots of code examples.
 
+**[A] Avoiding repitition**\
+Arguments for removing duplicate code. Benefits and challenges when doing so.\
+https://martinfowler.com/ieeeSoftware/repetition.pdf
+
+
 **[BA] BeckDesignRules**\
 Short summary of Kent Beck's four rules of good software design.\
 https://martinfowler.com/bliki/BeckDesignRules.html
