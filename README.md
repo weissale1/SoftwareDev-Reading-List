@@ -41,7 +41,7 @@ Text suggestions are welcome, as are error reports.
 
 # Complexity
 
-> *Increasingly, people seem to misinterpret complexity as sophistication, which is baffling — the incomprehensible should cause suspicion rather than admiration.* - Niklaus Wirth
+> Increasingly, people seem to misinterpret complexity as sophistication, which is baffling — the incomprehensible should cause suspicion rather than admiration. - Niklaus Wirth
 
 **[P][Classic] No Silver Bullet (1986)**\
 Distinguishing between accidential and essential complexity. Identification of essential complexity as inherent to most software problems. Arguing for limited possibilities to improve on tackling this essential complexity.\
