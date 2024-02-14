@@ -31,7 +31,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 **[B]** Book\
 **[G]** Guide
 
-**[Classic]** A text with siginificant influence on the field.
+**[Classic]** A text with significant influence on the field.
 
 ### How to participate
 Raise an Issue on GitHub to comment on this list.\
@@ -44,11 +44,11 @@ Text suggestions are welcome, as are error reports.
 > Increasingly, people seem to misinterpret complexity as sophistication, which is baffling — the incomprehensible should cause suspicion rather than admiration. - Niklaus Wirth
 
 **[P][Classic] No Silver Bullet (1986)**\
-Distinguishing between accidential and essential complexity. Identification of essential complexity as inherent to most software problems. Arguing for limited possibilities to improve on tackling this essential complexity.\
+Distinguishing between accidental and essential complexity. Identification of essential complexity as inherent to most software problems. Arguing for limited possibilities to improve on tackling this essential complexity.\
 http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
 
 **[P][Classic] Out of the Tar Pit (2006)**\
-Complexity as the single major souce of difficulty in the development of large software systems. Causes of complexity and how to avoid accidential complexity.\
+Complexity as the single major source of difficulty in the development of large software systems. Causes of complexity and how to avoid accidental complexity.\
 https://curtclifton.net/papers/MoseleyMarks06a.pdf
 
 **[A] Why Bloat Is Still Software’s Biggest Vulnerability. A 2024 plea for lean software**\
@@ -61,7 +61,7 @@ https://spectrum.ieee.org/lean-software-development
 ## Fundamentals
 
 **[P][Classic] On the criteria to be used in decomposing systems into modules (1972)**\
-Proposing to decompose systems by identifying (possibly changing) design desicions and grouping modules so that changes effect only one module. Arguing for 'information hiding' and well defined interfaces. Aiming for improved changability, independence of modules and comprehensibility.\
+Proposing to decompose systems by identifying (possibly changing) design decisions and grouping modules so that changes effect only one module. Arguing for 'information hiding' and well defined interfaces. Aiming for improved changeability, independence of modules and comprehensibility.\
 https://dl.acm.org/doi/10.1145/361598.361623
 
 **[P][Classic] Information distribution aspects of design methodology (1972)**\
@@ -77,11 +77,11 @@ Introduction and overview of software architecture’s many aspects. Topics incl
  https://www.oreilly.com/library/view/fundamentals-of-software/9781663728357/
 
 **[AS] Continuous Architecture**\
-Series of articles exploring software architecture as desicions on how systems should handle non-functional requirements.\
+Series of articles exploring software architecture as decisions on how systems should handle non-functional requirements.\
 https://www.infoq.com/articles/continous-architecture-article-series/
 
 **[A] Agility and Architecture: Balancing Minimum Viable Product and Minimum Viable Architecture**\
-Discussing the role of software architecture in agile development. Focus on the timing of architectural desicions.\
+Discussing the role of software architecture in agile development. Focus on the timing of architectural decisions.\
 https://www.infoq.com/articles/agility-architecture
 
 **[P] The Accidental Architecture**\
@@ -92,7 +92,7 @@ https://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Arc_Accidenta
 **[B] Clean Code**\
 Proposes and discusses a wide array of coding principles which lead to readable, changeable, maintainable code. Demonstrates these principles in lots of code examples.
 
-**[A] Avoiding repitition**\
+**[A] Avoiding repetition**\
 Arguments for removing duplicate code. Benefits and challenges when doing so.\
 https://martinfowler.com/ieeeSoftware/repetition.pdf
 
@@ -103,7 +103,7 @@ https://martinfowler.com/bliki/BeckDesignRules.html
 
 ## Technical debt
 **[A] What Does Technical Debt Tell You?**\
-Introduction to the technical debt metaphor. Difficulties in quantifying techical debt. Shortcomings of the metaphor.\
+Introduction to the technical debt metaphor. Difficulties in quantifying technical debt. Shortcomings of the metaphor.\
 https://www.infoq.com/articles/technical-debt-tells-you
 
 **[A] Technical Debt is Quantifiable as Financial Debt: an Impossible Thing for Developers**\
@@ -111,7 +111,7 @@ Difficulties in converting measures of technical debt to financial debt, as in f
 https://www.infoq.com/news/2022/09/financial-debt-impossible
 
 **[A] Using the Technical Debt Metaphor to Communicate Code Quality**
-Exploring the metaphor. Emphasising unmanaged technical debt as the main problem.\
+Exploring the metaphor. Emphasizing not managed technical debt as the main problem.\
 https://www.infoq.com/news/2022/10/technical-debt-code-quality
 
 ## Communicating architecture to business
@@ -136,7 +136,7 @@ https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-n
 # Development process
 
 **[A] Does scrum ruin great engineers or are you doing it wrong?**\
-Summary of a discussion about scrum on the softwareengineering stackexchange. List of common problems in implementing scrum.\
+Summary of a discussion about scrum on the software engineering stackexchange. List of common problems in implementing scrum.\
 https://stackoverflow.blog/2020/06/29/does-scrum-ruin-great-engineers-or-are-you-doing-it-wrong
 
 **[A] Can developer productivity be measured?**\
