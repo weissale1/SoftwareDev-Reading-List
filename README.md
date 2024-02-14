@@ -64,7 +64,7 @@ https://spectrum.ieee.org/lean-software-development
 Proposing to decompose systems by identifying (possibly changing) design desicions and grouping modules so that changes effect only one module. Arguing for 'information hiding' and well defined interfaces. Aiming for improved changability, independence of modules and comprehensibility.\
 https://dl.acm.org/doi/10.1145/361598.361623
 
-**[P][Classic] Information distribution aspects of design methodology (1972)**
+**[P][Classic] Information distribution aspects of design methodology (1972)**\
 Introducing information hiding and encapsulation, to increase the decoupling of modules.\
 https://cseweb.ucsd.edu/~wgg/CSE218/Parnas-IFIP71-information-distribution.PDF
 
@@ -149,7 +149,7 @@ https://martinfowler.com/bliki/CannotMeasureProductivity.html
 
 # Networks
 **[B] Where wizards stay up late: The Origins Of The Internet**\
-Focus on the people involved. Good story, but little to no technical details.
+Focus on the people involved. Good story, but little to no technical details.\
 https://books.google.de/books/about/Where_Wizards_Stay_Up_Late.html
 
 # Legacy systems
