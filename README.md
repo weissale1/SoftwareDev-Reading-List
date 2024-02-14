@@ -41,14 +41,19 @@ Text suggestions are welcome, as are error reports.
 
 # Complexity
 
-**[P][Classic] Out of the Tar Pit (2006)**\
-Complexity as the single major souce of difficulty in the development of large software systems. Causes of complexity and how to avoid accidential complexity.\
-https://curtclifton.net/papers/MoseleyMarks06a.pdf
-
+> *Increasingly, people seem to misinterpret complexity as sophistication, which is baffling — the incomprehensible should cause suspicion rather than admiration.* - Niklaus Wirth
 
 **[P][Classic] No Silver Bullet (1986)**\
 Distinguishing between accidential and essential complexity. Identification of essential complexity as inherent to most software problems. Arguing for limited possibilities to improve on tackling this essential complexity.\
 http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
+
+**[P][Classic] Out of the Tar Pit (2006)**\
+Complexity as the single major souce of difficulty in the development of large software systems. Causes of complexity and how to avoid accidential complexity.\
+https://curtclifton.net/papers/MoseleyMarks06a.pdf
+
+**[A] Why Bloat Is Still Software’s Biggest Vulnerability. A 2024 plea for lean software**\
+Arguing for less reliance on unchecked third party dependencies. Strong plea for writing small, comprehensible software.\
+https://spectrum.ieee.org/lean-software-development
 
 
 # Software Architecture
