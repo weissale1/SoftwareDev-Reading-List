@@ -9,6 +9,7 @@ Texts are roughly organized by topic and annotated with a tag, indicating the ki
 - [Software Architecture](#software-architecture)
     - [Fundamentals](#fundamentals)
     - [Software Design](#software-design)
+    - [Lean Software](#lean-software)
     - [Technical debt](#technical-debt)
     - [Communicating architecture to business](#communicating-architecture-to-business)
 - [Requirements](#requirements)
@@ -51,11 +52,6 @@ http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
 Complexity as the single major source of difficulty in the development of large software systems. Causes of complexity and how to avoid accidental complexity.\
 https://curtclifton.net/papers/MoseleyMarks06a.pdf
 
-**[A] Why Bloat Is Still Software’s Biggest Vulnerability. A 2024 plea for lean software**\
-Arguing for less reliance on unchecked third party dependencies. Strong plea for writing small, comprehensible software.\
-https://spectrum.ieee.org/lean-software-development
-
-
 # Software Architecture
 
 ## Fundamentals
@@ -96,10 +92,18 @@ Proposes and discusses a wide array of coding principles which lead to readable,
 Arguments for removing duplicate code. Benefits and challenges when doing so.\
 https://martinfowler.com/ieeeSoftware/repetition.pdf
 
-
 **[BA] BeckDesignRules**\
 Short summary of Kent Beck's four rules of good software design.\
 https://martinfowler.com/bliki/BeckDesignRules.html
+
+## Lean Software
+**[A] Why Bloat Is Still Software’s Biggest Vulnerability. A 2024 plea for lean software**\
+Arguing for less reliance on unchecked third party dependencies. Strong plea for writing small, comprehensible software.\
+https://spectrum.ieee.org/lean-software-development
+
+**[BA] Is software getting worse?**\
+Exploring how current market trends lead to decreasing software quality.\
+https://stackoverflow.blog/2023/12/25/is-software-getting-worse
 
 ## Technical debt
 **[A] What Does Technical Debt Tell You?**\
